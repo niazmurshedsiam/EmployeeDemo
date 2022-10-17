@@ -1,0 +1,19 @@
+.navbar {
+    height: 50px;
+}
+
+footer.navbar.navbar-dark.bg-dark.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+main {
+    padding: 50px;
+}
+
+h2 {
+    font-size: 33px;
+    font-weight: bold;
+}
