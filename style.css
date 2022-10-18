@@ -17,3 +17,14 @@ h2 {
     font-size: 33px;
     font-weight: bold;
 }
+
+button {
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    background-color: Highlight;
+    border: none;
+    border-radius: 5px"
+
+}
