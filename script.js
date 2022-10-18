@@ -32,7 +32,7 @@ $("#SubmitButton").click(function (e) {
         //console.log(JSON.parse(response));
         //alert("hello");
         cleanForm();
-        document.getElementById("PopUP").innerHTML = "Submit Successfully";
+        document.getElementById("PopUP").innerHTML = "Successfully Submitted";
         //return false;
     });
 

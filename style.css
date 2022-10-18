@@ -25,6 +25,11 @@ button {
     color: white;
     background-color: Highlight;
     border: none;
-    border-radius: 5px"
+    border-radius: 5px;
+}
 
+.submitSuccess {
+    color: green;
+    text-align: center;
+    padding-bottom: 5px;
 }
